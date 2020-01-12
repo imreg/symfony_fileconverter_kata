@@ -1,7 +1,7 @@
 ## Symfony practice, reading product on https://videx.comesconnected.com and store in Json
 
 #### Task:
-- This example the website of Videx is read
+- This example reads the website of Videx
 - All products of page are stored in array of object
 - Products have to be sorted by price in a descending order
 - Convert all in json object and store in file
